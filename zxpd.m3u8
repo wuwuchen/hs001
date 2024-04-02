@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 ,凤凰中文台
 http://210.210.155.37/uq2663/h/h157/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Phoenix_Chinese
+#EXTINF:-1 ,凤凰咨询
+http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 #EXTINF:-1 ,东森LAVE
 http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
 #EXTINF:-1 ,TVBS新闻
