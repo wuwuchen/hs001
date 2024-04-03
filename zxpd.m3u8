@@ -5,6 +5,8 @@ http://210.210.155.37/uq2663/h/h157/index2.m3u8
 http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 #EXTINF:-1 ,无线新闻
 http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
+#EXTINF:-1 ,香港有线新闻
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndfncvbdjpeyjhxchjsjjhjejjjyxxw.flv
 #EXTINF:-1 ,东森新闻
 http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290
 #EXTINF:-1 ,TVBS新闻
