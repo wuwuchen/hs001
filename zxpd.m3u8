@@ -69,32 +69,6 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 http://ali.hlspull.yximgs.com/live/huanqiuhklivehmcyoywjjubjfdjfvchtcbsjjjvfjhncvndvbsxcbmjsllive.flv
 #EXTINF:-1 ,BBC Earth HD
 https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
-#EXTINF:-1 ,BBC Travel
-https://ab96b349d4d14d80a1f8530a0bce4488.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCTravel/playlist.m3u8?ads.wurl_channel=985&ads.wurl_name=BBCTravel&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 ,Unknown_93
-http://php.jdshipin.com:8880/qly.php?id=6329
-#EXTINF:-1 ,Unknown_94
-http://php.jdshipin.com:8880/qly.php?id=6332
-#EXTINF:-1 ,Unknown_95
-http://php.jdshipin.com:8880/qly.php?id=6335
-#EXTINF:-1 ,Unknown_96
-http://php.jdshipin.com:8880/xjtv.php?id=xjws
-#EXTINF:-1 ,Unknown_97
-http://php.jdshipin.com:8880/xztv.php?id=ws
-#EXTINF:-1 ,Unknown_98
-http://php.jdshipin.com:8880/xztv.php?id=ys
-#EXTINF:-1 ,Unknown_99
-http://php.jdshipin.com:8880/xztv.php?id=zy
-#EXTINF:-1 ,Unknown_100
-http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829369249612.m3u8
-#EXTINF:-1 ,安多卫视
-http://stream.qhbtv.com/adws/sd/live.m3u8
-#EXTINF:-1 ,青海卫视
-http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
-#EXTINF:-1 ,Unknown_103
-http://wb.jxgztv.com/live/gztv1.m3u8
-#EXTINF:-1 ,Unknown_105
-http://zhuji.sdrnwl.cn:9901/tsfile/live/1015_1.m3u8
 #EXTINF:-1 ,直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 ,Unknown_109
@@ -113,17 +87,3 @@ http://50.7.238.114:8278/lunghuajingdian_twn/playlist.m3u8?tid=MC2C7597780175977
 http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
 #EXTINF:-1 ,三立体育
 http://198.16.100.90:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
-#EXTINF:-1 ,Unknown_144
-http://50.7.238.114:8278/eyetvxiju_twn/playlist.m3u8?tid=ME3E6686724066867240&ct=19254&tsum=728fc49fcd53cd770381ffd87883b1d1
-#EXTINF:-1 ,Unknown_145
-http://198.16.100.90:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&ct=19254&tsum=0bb4cbfc0d32bff89ab5b3a5352fcf94
-#EXTINF:-1 ,Unknown_146
-http://50.7.238.114:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
-#EXTINF:-1 ,纬来体育
-https://cloud.yumixiu768.com/tmp/123.m3u8
-#EXTINF:-1 ,Unknown_148
-http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MCEC3596356835963568&ct=19234&tsum=b4f0f6248548de66e4ff5d230c130d1a
-#EXTINF:-1 ,点掌财经
-https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
-#EXTINF:-1 ,Unknown_151
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
