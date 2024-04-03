@@ -1,8 +1,14 @@
 #EXTM3U
-#EXTINF:-1 ,凤凰中文台
+#EXTINF:-1 ,group-title="香港",凤凰中文台
 http://210.210.155.37/uq2663/h/h157/index2.m3u8
-#EXTINF:-1 ,凤凰咨询
+#EXTINF:-1 ,group-title="香港",凤凰中文台
+http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068
+#EXTINF:-1 ,group-title="香港",凤凰中文台
+https://edge2.laotv.la/live/PhxChinese/index.m3u8
+#EXTINF:-1 ,group-title="香港"凤凰咨询
 http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
+#EXTINF:-1 ,group-title="香港"凤凰咨询
+https://edge2.laotv.la/live/PhoenixNews/index.m3u8
 #EXTINF:-1 ,无线新闻
 http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
 #EXTINF:-1 ,香港有线新闻
