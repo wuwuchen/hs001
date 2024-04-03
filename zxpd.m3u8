@@ -21,6 +21,8 @@ http://61.244.22.5/ch3/ch3.live/index.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 ,日本全天新闻
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 ,NHK WORD
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 ,CNA亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 ,BBC
@@ -55,8 +57,6 @@ http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 http://61.244.22.5/ch1/ch1.live/index.m3u8
 #EXTINF:-1 ,澳门咨询
 http://61.244.22.5/ch5/info_ch5.live/index.m3u8
-#EXTINF:-1 ,纬来日本
-http://50.7.238.114:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
 #EXTINF:-1 ,NHK World Premium 日本
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 ,澳门莲花
