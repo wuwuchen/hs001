@@ -15,7 +15,7 @@ https://edge2.laotv.la/live/PhoenixNews/index.m3u8
 https://play-flive.ifeng.com/live/06OLEEWQKN4.flv
 #EXTINF:-1 ,group-title="香港",无线新闻
 http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
-#EXTINF:-1 ,group-title="香港",无线新闻HD
+#EXTINF:-1 ,group-title="香港",无线新闻
 http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
 #EXTINF:-1 ,group-title="香港",翡翠台
 http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
