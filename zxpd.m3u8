@@ -41,6 +41,8 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 ,group-title="台湾",TVBS-HD
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 ,group-title="台湾",东森超视
+https://edge1.laotv.la/live/DongsenMovie/index.m3u8
 #EXTINF:-1 ,group-title="澳门",澳门卫视
 http://61.244.22.5/ch3/ch3.live/index.m3u8
 #EXTINF:-1 ,group-title="澳门",澳视澳门
