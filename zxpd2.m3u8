@@ -783,6 +783,7 @@ http://cdn6.163189.xyz/163189/amty
 http://cdn6.163189.xyz/163189/amzy
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视",CCTV5
 https://live.264788.xyz/channel/cctv5?streamid=188da934b8ba25977f0ac6a59478a16b&livekey=01Wb7kjxu1xx2f7s4tcqSAF03RfwBkY7h8Nz2
+#EXTINF:-1 tvg-name="CCTV5HD" tvg-logo="https://live.fanmingming.cn/tv/CCTV5HD.png" group-title="央视",CCTV5HD
 http://119.49.183.205:5003/cctv5.m3u8?token=7375646fd296bccff80c6d25015ea428576d87cd&z=1151
 
 
