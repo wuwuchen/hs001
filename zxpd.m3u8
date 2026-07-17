@@ -15,3 +15,63 @@ http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
 http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-name="香港卫视[1080][S]" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/香港卫视.png" group-title="卫视频道" response-time="120ms",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 ,亚旅卫视
+https://jc-qlive-play.jingchangkan.cn/live/3473_200508855_xR9m.m3u8
+#EXTINF:-1 ,莲花卫视
+http://nettvpro.live/hls/lotustv.php
+#EXTINF:-1 ,TVB星河粤语
+http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
+#EXTINF:-1 ,寰宇新聞台
+http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
+#EXTINF:-1 ,ViuTV
+https://cdn.hkdtmb.com/hls/99/index.m3u8
+#EXTINF:-1 ,ViuTV6
+http://cdn.hkdtmb.com/hls/96/index.m3u8
+#EXTINF:-1 ,RHK31
+https://cdn.hkdtmb.com/hls/31/index.m3u8
+#EXTINF:-1 ,RHK32
+https://cdn.hkdtmb.com/hls/32/index.m3u8
+#EXTINF:-1 ,RTHK33
+https://cdn.hkdtmb.com/hls/33/index.m3u8
+#EXTINF:-1 ,翡翠台
+https://cdn.hkdtmb.com/hls/81/index.m3u8
+#EXTINF:-1 ,无线新闻
+https://cdn.hkdtmb.com/hls/83/index.m3u8
+#EXTINF:-1 ,明珠台HD
+https://cdn.hkdtmb.com/hls/84/index.m3u8
+#EXTINF:-1 ,J2
+https://cdn.hkdtmb.com/hls/82/index.m3u8
+#EXTINF:-1 ,香港开电视
+https://cdn.hkdtmb.com/hls/77/index.m3u8
+#EXTINF:-1 ,Celestial天映经典
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 ,Oh!K hd
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+#EXTINF:-1 ,亞洲旅遊台
+http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
+#EXTINF:-1 ,C+频道
+http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/index.m3u8
+#EXTINF:-1 ,耀才財經台1
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 ,香港国际财经
+https://cdn.hkdtmb.com/hls/76/index.m3u8
+#EXTINF:-1 ,澳视澳门HD
+http://61.244.22.4/ch1/ch1.live/index.m3u8
+#EXTINF:-1 ,澳門1台HD
+http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+#EXTINF:-1 ,澳视葡文HD
+http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
+#EXTINF:-1 ,澳视葡文
+http://61.244.22.4/ch2/ch2.live/index.m3u8
+#EXTINF:-1 ,澳門2台HD
+http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+#EXTINF:-1 ,澳門微电影HD
+http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
+#EXTINF:-1 ,澳视卫星
+http://61.244.22.4/ch3/ch3.live/index.m3u8
+#EXTINF:-1 ,澳門3台
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+#EXTINF:-1 ,PP体育
+http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
+#EXTINF:-1 ,CCTV5
+http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
